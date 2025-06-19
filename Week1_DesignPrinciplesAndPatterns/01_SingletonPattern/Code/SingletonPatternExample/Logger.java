@@ -7,7 +7,7 @@ public class Logger{
             System.out.println("Logger initialized");
         }
 
-        public static synchronized Logger getInstance()
+        public static Logger getInstance()
         {
             if(instance==null){
                 instance=new Logger();
