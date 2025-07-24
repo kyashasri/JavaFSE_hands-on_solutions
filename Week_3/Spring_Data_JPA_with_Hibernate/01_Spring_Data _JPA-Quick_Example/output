@@ -1,0 +1,4 @@
+04-07-25 16:15:08.721 main       INFO  com.cognizant.ormlearn.OrmLearnApplication    main   Inside main
+04-07-25 16:15:08.732 main       INFO  com.cognizant.ormlearn.OrmLearnApplication    testGetAllCountries   Start
+04-07-25 16:15:08.753 main       DEBUG com.cognizant.ormlearn.OrmLearnApplication    testGetAllCountries   countries=[Country [code=IN, name=India], Country [code=US, name=United States of America]]
+04-07-25 16:15:08.754 main       INFO  com.cognizant.ormlearn.OrmLearnApplication    testGetAllCountries   End

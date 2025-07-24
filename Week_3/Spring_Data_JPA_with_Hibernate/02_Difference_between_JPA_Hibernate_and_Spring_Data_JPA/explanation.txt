@@ -1,0 +1,17 @@
+# Hands-on 4: Difference Between JPA, Hibernate, and Spring Data JPA
+
+## Java Persistence API (JPA)
+-JPA is like a set of rules for saving Java objects into a database.
+-It is just a specification, which means it doesn’t have real code.
+
+## Hibernate
+- Hibernate is a tool that follows the JPA rules.
+-It has the actual code to connect Java objects to the database.
+- Requires manual session and transaction management.
+
+
+## Spring Data JPA
+-Spring Data JPA makes things easier and shorter.
+-It works on top of JPA and uses Hibernate inside.
+
+
