@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  justify-content: space-around;
+  align-items: flex-start;
+  padding: 70px;
+}
+
+.section {
+  flex: 1;
+  padding: 30px;
+}
+
+.divider {
+  width: 2px;
+  background-color: green;
+  margin: 0 10px;
+}
